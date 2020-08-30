@@ -1,6 +1,10 @@
-# FlutterIceCreamUI
+# Flutter UI
 
-A new Flutter project.
+![](https://raw.githubusercontent.com/VBT-Intership/YusufOzgul-FlutterUI/main/github/SS1.png)
+
+![](https://raw.githubusercontent.com/VBT-Intership/YusufOzgul-FlutterUI/main/github/SS2.png)
+
+![](https://raw.githubusercontent.com/VBT-Intership/YusufOzgul-FlutterUI/main/github/SS3.png)
 
 ## Getting Started
 
