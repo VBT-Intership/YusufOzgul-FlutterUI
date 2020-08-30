@@ -17,12 +17,9 @@ class PopularItemsHeader extends StatelessWidget {
             ),
             width: 50,
             height: 50,
-            child: FlatButton(
-              onPressed: null,
-              child: Icon(
-                Icons.favorite,
-                color: Colors.white,
-              ),
+            child: Icon(
+              Icons.favorite,
+              color: Colors.white,
             ),
             margin: EdgeInsets.only(right: 20),
           ),

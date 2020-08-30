@@ -40,9 +40,9 @@ class MainHorizontalItemsTitle extends StatelessWidget {
             ),
             width: 50,
             height: 50,
-            child: FlatButton(
+            child: IconButton(
+              icon: Icon(Icons.search),
               onPressed: null,
-              child: Icon(Icons.search),
             ),
             margin: EdgeInsets.all(20),
           )
